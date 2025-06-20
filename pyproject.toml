@@ -1,0 +1,21 @@
+[project]
+name = "forestfireprediction"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "AadityaKhanal",email = "142284398+ak-codes-py@users.noreply.github.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask (>=3.1.1,<4.0.0)",
+    "scikit-learn (>=1.7.0,<2.0.0)",
+    "pandas (>=2.3.0,<3.0.0)",
+    "numpy (>=2.3.0,<3.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
