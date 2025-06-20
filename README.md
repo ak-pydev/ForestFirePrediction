@@ -155,7 +155,8 @@ ForestFirePrediction/
 - **ML Framework**: scikit-learn 1.7.0
 - **Data Processing**: pandas 2.3.0, numpy 2.3.0
 - **Frontend**: HTML5, Tailwind CSS
-- **Deployment**: Gunicorn, Docker
+- **Deployment**: Gunicorn, Docker, AWS Beanstalk via CodePipeline
+
 
 ## 🧪 Model Performance
 
@@ -194,13 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Dataset**: Algerian Forest Fires Dataset (UCI Machine Learning Repository)
 - **FWI System**: Natural Resources Canada Fire Weather Index
 - **Regions**: Algeria National Office of Meteorology
-
-## 📞 Contact
-
-**Aaditya Khanal** - [GitHub](https://github.com/ak-codes-py)
-
-Project Link: [https://github.com/yourusername/ForestFirePrediction](https://github.com/yourusername/ForestFirePrediction)
-
+- Krish Naik, Udemy 
+- Headintheclouds (YouTube)
 ---
 
 <div align="center">
